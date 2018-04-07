@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: SQL Injection
-
+!(https://github.com/jas5mg/Code-Path-Week8/blob/master/SQL.gif)
 
 Vulnerability #2: Session Hijack
 
