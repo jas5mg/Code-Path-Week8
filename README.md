@@ -21,25 +21,26 @@ Vulnerability #1: SQL Injection
 ![](https://github.com/jas5mg/Code-Path-Week8/blob/master/SQL.gif)
 
 Vulnerability #2: Session Hijack
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/Session_Hijacking.gif)
 
 
 
 ## Green
 
 Vulnerability #1: Username Enumeration
-
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/Username_Enumeration.gif)
 
 Vulnerability #2: Cross-Site Scripting
-
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/XSS_Attack.gif)
 
 
 ## Red
 
 Vulnerability #1: Cross-Site Request Forgery
-
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/CSRF.gif)
 
 Vulnerability #2: Insecure Direct Object Reference
-
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/IDOR.gif)
 
 
 ## Notes
