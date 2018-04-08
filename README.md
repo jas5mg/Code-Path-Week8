@@ -37,7 +37,7 @@ Vulnerability #2: Cross-Site Scripting
 ## Red
 
 Vulnerability #1: Cross-Site Request Forgery
-![](https://github.com/jas5mg/Code-Path-Week8/blob/master/CSRF.gif)
+
 
 Vulnerability #2: Insecure Direct Object Reference
 ![](https://github.com/jas5mg/Code-Path-Week8/blob/master/IDOR.gif)
