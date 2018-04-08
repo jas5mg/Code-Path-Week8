@@ -21,7 +21,7 @@ Vulnerability #1: SQL Injection
 ![](https://github.com/jas5mg/Code-Path-Week8/blob/master/SQL.gif)
 
 Vulnerability #2: Session Hijack
-![](https://github.com/jas5mg/Code-Path-Week8/blob/master/Session.gif)
+![](https://github.com/jas5mg/Code-Path-Week8/blob/master/Session_Hijacking.gif)
 
 
 
